@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning CI/CD and DevOps
 - 💞️ I have experience with TCP/IP networking
-- 📫 Originally from Moscow Region, RU
+- 📫 Originally from Ipswich, UK
 
 <!---
 petr-akimov/petr-akimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
